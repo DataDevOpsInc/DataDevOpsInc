@@ -37,6 +37,7 @@ Ready to ride the cyber highway? Follow us for the latest tech sagas, pro tips, 
 - [GitLab](https://gitlab.com/datadevops)
 - [GitLab Inc](https://gitlab.com/datadevopsinc)
 - [LinkedIn](https://www.linkedin.com/in/DataDevOpsInc)
+- [LinkedIn Inc](https://www.linkedin.com/company/datadevops/)
 - [Twitter](https://twitter.com/DataDevOpsInc)
 - [Telegram](https://t.me/s/datadevops)
 - [Instagram](https://www.instagram.com/datadevops)
